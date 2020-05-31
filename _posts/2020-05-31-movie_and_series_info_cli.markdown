@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Movie And Series Info Cli**"
-date:       2020-05-31 21:55:18 +0000
+date:       2020-05-31 17:55:19 -0400
 permalink:  movie_and_series_info_cli
 ---
 
